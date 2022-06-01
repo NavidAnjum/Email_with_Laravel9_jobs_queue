@@ -6,8 +6,9 @@ Mailtrap is an add-on for safe and comprehensive email testing. Mailtrap is impl
     
 ## Laravel Queue and Jobs
     
-    When user is sending email or upload a CSV,it may take long time but using queue we can reduce the wait time. When we run 
-    php artisan queue:work it will strart the queue one by one.With the help of Jobs we will dispatch queue one by one.
+When user is sending email or upload a CSV,it may take long time but using queue we can show the success message instantly. When we run 
+php artisan queue:work 
+it will strart the queue one by one.With the help of Jobs we will dispatch queue one by one.
 
 ## License
 
