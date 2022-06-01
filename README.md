@@ -3,8 +3,9 @@
 ## About Mailtrap
     
 Mailtrap is an add-on for safe and comprehensive email testing. Mailtrap is implemented as a dummy SMTP server. It catches all your test emails and displays them in virtual inboxes.
-
-##Laravel Queue and Jobs:
+    
+## Laravel Queue and Jobs
+    
     When user is sending email or upload a CSV,it may take long time but using queue we can reduce the wait time. When we run 
     php artisan queue:work it will strart the queue one by one.With the help of Jobs we will dispatch queue one by one.
 
