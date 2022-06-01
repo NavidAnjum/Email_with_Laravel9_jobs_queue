@@ -1,4 +1,4 @@
-<p align="center">Email with Laravel 9
+<h1 align="center">Email with Laravel 9
 
 ## About Mailtrap
     
